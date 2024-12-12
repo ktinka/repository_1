@@ -1,5 +1,5 @@
 def my_superfunction():
-    print('#wanttosleep')
+    print('lalala')
 
 
 def main():
